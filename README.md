@@ -18,7 +18,7 @@ The project will involve the following:
 
 This app doesn’t save the blocks into a blockchain, but the central functionality of my code will be able to be plugged in directly into a larger Blockchain application that fully manages a Blockchain, connects to multiple networked nodes, and allows us to trade items on the network. 
 
-**Note:** This is one of my class projects, and some of the codes are provided by my Professor which allows students to have the same foundations to deploy the app. 
+**Note:** This is one of my class projects, and some of the codes are provided by my Professor which allows students to have the same foundations to deploy the blockchain service. 
 
 
 

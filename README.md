@@ -16,7 +16,7 @@ The project will involve the following:
 - Merkle Trees
 - Blockchain Proof of Work
 
-**Note:** This app doesn’t save the blocks into a blockchain, but the central functionality my code will be able to be plugged in directly into a larger Blockchain application that fully manages a Blockchain, connects to multiple networked nodes, and allows us to trade items on the network. 
+**Note:** This app doesn’t save the blocks into a blockchain, but the central functionality of my code will be able to be plugged in directly into a larger Blockchain application that fully manages a Blockchain, connects to multiple networked nodes, and allows us to trade items on the network. 
 
 
 
